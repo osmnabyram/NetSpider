@@ -4,12 +4,15 @@ Bu proje, **Aircrack-ng** araç setini temel alarak Wi-Fi ağları üzerinde **h
 
 Araç; manuel olarak yürütülmesi zahmetli olan komut zincirlerini otomatikleştirerek, **eğitim**, **CTF**, **laboratuvar ortamları** ve **izinli sızma testlerinde** pratik kullanım sunar.
 
+![image](https://github.com/user-attachments/assets/31f25032-a859-48a0-9ca5-693b2d66c9cf)
+
 ---
 
 ## Genel Amaç
 
 - Wi-Fi ağlarını taramak  
 - Hedef access point üzerinde handshake yakalamak  
+
 - Deauthentication saldırılarını otomatikleştirmek  
 - Handshake doğrulama ve parola denemelerini tek akışta yürütmek  
 - Kullanıcıyı terminal üzerinden adım adım yönlendirmek  
